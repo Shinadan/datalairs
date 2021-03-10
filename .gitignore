@@ -1,2 +1,5 @@
-credential.py
-.env
+#ignore credentials
+credentials.py
+
+#ignore python virtual env
+twit-env
